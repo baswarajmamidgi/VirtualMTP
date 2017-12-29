@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mentor_questionnaire"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Questionnaire" />
+
+    <item
+        android:id="@+id/mentee_attendence"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Attendence" />
+
+    <item
+        android:id="@+id/mentee_status"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Mentee Status" />
+
+
+    <item
+        android:id="@+id/mentee_image_analysis"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Image Analysis" />
+
+    <item
+        android:id="@+id/mentee_contact"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Contact Mentee" />
+
+
+
+</menu>
